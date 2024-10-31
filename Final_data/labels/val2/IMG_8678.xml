@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_8678.jpg</filename>
+	<path>/my-project-name/IMG_8678.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>1499</ymin>
+			<xmax>2168</xmax>
+			<ymax>2949</ymax>
+		</bndbox>
+	</object>
+</annotation>
