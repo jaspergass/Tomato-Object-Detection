@@ -1,0 +1,16 @@
+path: /content/Tomato-Object-Detection/Final_data
+train: /content/Tomato-Object-Detection/Final_data/images/train
+#test: (test dataset folder path)
+val: /content/Tomato-Object-Detection/Final_data/images/val
+test: /content/Tomato-Object-Detection/Final_data/images/val2
+
+# Classes
+nc: 4 # replace based on your dataset's number of classes
+
+# Class names
+# replace all class names with your own classes' names
+names:
+  0: tomato early blight
+  1: tomato late blight
+  2: healthy-tomato
+  3: tomato bacterial spot
